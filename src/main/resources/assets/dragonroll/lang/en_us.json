@@ -1,0 +1,7 @@
+{
+  "key.categories.dragonroll": "Dragon Roll",
+  "key.dragonroll.toggle": "Toggle barrel-roll flight",
+  "dragonroll.msg.on": "Barrel-roll flight ON",
+  "dragonroll.msg.off": "Barrel-roll flight OFF",
+  "dragonroll.msg.not_mount": "You need to be steering a dragon to use barrel-roll flight"
+}
